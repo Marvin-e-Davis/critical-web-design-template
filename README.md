@@ -1,4 +1,4 @@
-# critical-web-design template
+# dig245-A1
 
 A skeleton for class projects
 
